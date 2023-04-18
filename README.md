@@ -1,6 +1,8 @@
 # spring-cloud-data-flow
 Spring Cloud Data Flow Example with Kafka-binder 
 
+![alt text](https://github.com/ismailraju/spring-cloud-data-flow-example/blob/2e660da5dbcb36a25e0439b6df49a0573ebf0730/image_2023_04_18T09_35_31_122Z.png)
+
 ###### Follow Below Steps
 
 ###### 1) Apache-Kafka Binary Distribution [Download](http://apachemirror.wuchna.com/kafka/2.3.1/kafka_2.11-2.3.1.tgz).
